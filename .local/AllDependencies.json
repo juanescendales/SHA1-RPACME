@@ -1302,15 +1302,15 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\juanm\\.nuget\\packages\\": {}
+    "C:\\Users\\juane\\.nuget\\packages\\": {}
   },
   "project": {
     "restore": {
       "projectUniqueName": "TrabajoFinalRPA_JuanManuelPajoy_JuanEstebanCendales",
       "projectName": "TrabajoFinalRPA_JuanManuelPajoy_JuanEstebanCendales",
-      "projectPath": "D:\\juanm\\Documents\\documentosImportantes\\semestre 6\\Compiladores\\Hash\\.local",
-      "packagesPath": "C:\\Users\\juanm\\.nuget\\packages\\",
-      "outputPath": "D:\\juanm\\Documents\\documentosImportantes\\semestre 6\\Compiladores\\Hash\\.local"
+      "projectPath": "J:\\Juanes\\Universidad\\Semestre 6\\Teoria de la Computacion y la Compilacion\\Practica\\RPA FINAL\\SHA1-RPACME\\.local",
+      "packagesPath": "C:\\Users\\juane\\.nuget\\packages\\",
+      "outputPath": "J:\\Juanes\\Universidad\\Semestre 6\\Teoria de la Computacion y la Compilacion\\Practica\\RPA FINAL\\SHA1-RPACME\\.local"
     },
     "frameworks": {
       "net461": {
